@@ -55,13 +55,13 @@ AI_Powered_Nutritional_Assistant/
 To set up this project, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Arpan-shrma/AI_Powered_Nutritional_Assistant.git
-   ```
+      ```bash
+      git clone https://github.com/Arpan-shrma/AI_Powered_Nutritional_Assistant.git
+      ```
 2.	**Install the required dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+      ```bash
+      pip install -r requirements.txt
+      ```
 3. **Configure Firebase:**
 
    * Create a Firebase project
